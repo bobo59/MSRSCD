@@ -4,7 +4,7 @@ MSRS-CD Dataset link:https://pan.baidu.com/s/1Bb-uIh_uRFhrZaPM3i01dQ?pwd=MSRS
 
 The MSRS-CD dataset significantly complements existing RSCD datasets in terms of image resolution, change types, dataset size, and change dimensions, further providing a new benchmark for RSCD. This dataset comprises 841 pairs of remote sensing images captured in southern Chinese cities from 2019 to 2023, with each image sized at 1024×1024 pixels and a spatial resolution of 0.5 meters. The dataset is divided into training, validation, and testing sets in a ratio of 7:1:2. As shown in Fig. 1, the main types of changes in the dataset include new buildings, suburban expansion, vegetation changes, and road construction.
 
- ![image](https://github.com/user-attachments/assets/15a68f4c-72b2-45c1-9b1c-a7bd1efdd26b)
+![Image description](https://github.com/user-attachments/assets/15a68f4c-72b2-45c1-9b1c-a7bd1efdd26b)
 
 Fig. 1. The MSRS-CD dataset example, where Image T1 and Image T2 represent two remote sensing images at different times, and GT denotes the ground truth labels.
 
@@ -23,4 +23,18 @@ This is the result of the quantitative analysis of some of the networks on the d
 | AANet         | 2024  | 256   | 71.94     | 77.03  | 74.40    | 59.23| 92.17| 24.21    | 15.82    | 10.63               |
 
 
+Complete qualitative analysis results link: https://pan.baidu.com/s/1Bb-uIh_uRFhrZaPM3i01dQ?pwd=MSRS 
+![image](https://github.com/user-attachments/assets/fc098493-829e-464e-949e-b10a7b9eb77c)
 
+Where white, green, red, and black respectively represent true positive, false negative, false positive, and true negative. 
+
+@ARTICLE{10813409,
+  author={Liu, Shenbo and Zhao, Dongxue and Zhou, Yuheng and Tan, Ying and He, Huang and Zhang, Zhao and Tang, Lijun},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Network and Dataset for Multiscale Remote Sensing Image Change Detection}, 
+  year={2025},
+  volume={18},
+  number={},
+  pages={2851-2866},
+  keywords={Feature extraction;Remote sensing;Transformers;Convolutional neural networks;Change detection algorithms;Adaptation models;Vectors;Shape;Semantics;Deep learning;Attention mechanism;change detection dataset (CDD);feature pyramid;multiscale change detection;remote sensing images},
+  doi={10.1109/JSTARS.2024.3522135}}
