@@ -1,4 +1,4 @@
-# MSRSCD
+# MSRS-CD
 
 MSRS-CD Dataset link:https://pan.baidu.com/s/1Bb-uIh_uRFhrZaPM3i01dQ?pwd=MSRS 
 
@@ -9,7 +9,7 @@ The MSRS-CD dataset significantly complements existing RSCD datasets in terms of
 Fig. 1. The MSRS-CD dataset example, where Image T1 and Image T2 represent two remote sensing images at different times, and GT denotes the ground truth labels.
 
 
-
+## EXPERIMENTS
 This is the result of the quantitative analysis of some of the networks on the dataset. (More networks are waiting to be updated.)
 | Methods       | years | input | Precision | Recall | F1-score | IoU  | OA   | FLOPs(G) | Param(M) | Inference time(ms) |
 |---------------|-------|-------|-----------|--------|----------|------|------|----------|----------|---------------------|
@@ -28,13 +28,15 @@ Complete qualitative analysis results link: https://pan.baidu.com/s/1Bb-uIh_uRFh
 
 Where white, green, red, and black respectively represent true positive, false negative, false positive, and true negative. 
 
-@ARTICLE{10813409,
-  author={Liu, Shenbo and Zhao, Dongxue and Zhou, Yuheng and Tan, Ying and He, Huang and Zhang, Zhao and Tang, Lijun},
-  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
-  title={Network and Dataset for Multiscale Remote Sensing Image Change Detection}, 
-  year={2025},
-  volume={18},
-  number={},
-  pages={2851-2866},
-  keywords={Feature extraction;Remote sensing;Transformers;Convolutional neural networks;Change detection algorithms;Adaptation models;Vectors;Shape;Semantics;Deep learning;Attention mechanism;change detection dataset (CDD);feature pyramid;multiscale change detection;remote sensing images},
-  doi={10.1109/JSTARS.2024.3522135}}
+## Citations
+@ARTICLE{10813409,  
+  author={Liu, Shenbo and Zhao, Dongxue and Zhou, Yuheng and Tan, Ying and He, Huang and Zhang, Zhao and Tang, Lijun},  
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},  
+  title={Network and Dataset for Multiscale Remote Sensing Image Change Detection},  
+  year={2025},  
+  volume={18},  
+  number={},  
+  pages={2851-2866},  
+  doi={10.1109/JSTARS.2024.3522135}  
+}
+
