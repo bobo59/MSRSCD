@@ -49,5 +49,5 @@ Where white, green, red, and black respectively represent true positive, false n
   volume={63},
   number={},
   pages={1-13},
-  keywords={Feature extraction;Data mining;Remote sensing;Image edge detection;Attention mechanisms;Convolutional neural networks;Transformers;Accuracy;Training;Deep learning;Change detection;deep feature fusion;dual-temporal difference enhancement;high-resolution remote sensing images},
-  doi={10.1109/TGRS.2025.3555171}}
+  doi={10.1109/TGRS.2025.3555171}
+  }
