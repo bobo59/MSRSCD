@@ -21,6 +21,7 @@ This is the result of the quantitative analysis of some of the networks on the d
 | VcT           | 2023  | 256   | 76.64     | 69.72  | 73.02    | 57.50| 92.39| 10.64    | 3.57     | 14.68               |
 | EATDer        | 2023  | 256   | 66.73     | 84.17  | 74.44    | 59.29| 91.47| 23.46    | 6.61     | 21.18               |
 | AANet         | 2024  | 256   | 71.94     | 77.03  | 74.40    | 59.23| 92.17| 24.21    | 15.82    | 10.63               |
+| DFFNet        | 2025  | 1024  | 76.22     |78.69   | 77.44    | 61.82| 93.23| 56.93    | 23.32    | 19.63               |
 
 
 Complete qualitative analysis results link: https://pan.baidu.com/s/1Fm5oOF0M3cl1fdd9pxl6lw?pwd=MSRS 
