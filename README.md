@@ -40,4 +40,13 @@ Where white, green, red, and black respectively represent true positive, false n
   pages={2851-2866},  
   doi={10.1109/JSTARS.2024.3522135}  
 }
-
+@ARTICLE{10942432,
+  author={Liu, Shenbo and Zhao, Dongxue and Zhou, Yuheng and Tan, Ying and He, Huang and Zhang, Zhao and Tang, Lijun},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Full-Scale Change Detection Network for Remote Sensing Images Based on Deep Feature Fusion}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-13},
+  keywords={Feature extraction;Data mining;Remote sensing;Image edge detection;Attention mechanisms;Convolutional neural networks;Transformers;Accuracy;Training;Deep learning;Change detection;deep feature fusion;dual-temporal difference enhancement;high-resolution remote sensing images},
+  doi={10.1109/TGRS.2025.3555171}}
