@@ -1,6 +1,6 @@
 # MSRS-CD
 
-MSRS-CD Dataset link:https://pan.baidu.com/s/1Bb-uIh_uRFhrZaPM3i01dQ?pwd=MSRS 
+MSRS-CD Dataset link:baidu drive：  https://pan.baidu.com/s/1Bb-uIh_uRFhrZaPM3i01dQ?pwd=MSRS   or   google drive：https://drive.google.com/file/d/1GuM8XpWVg5raLvJ2xfj5lSMYEzoBWxRO/view?usp=sharing
 
 The MSRS-CD dataset significantly complements existing RSCD datasets in terms of image resolution, change types, dataset size, and change dimensions, further providing a new benchmark for RSCD. This dataset comprises 841 pairs of remote sensing images captured in southern Chinese cities from 2019 to 2023, with each image sized at 1024×1024 pixels and a spatial resolution of 0.5 meters. The dataset is divided into training, validation, and testing sets in a ratio of 7:1:2. As shown in Fig. 1, the main types of changes in the dataset include new buildings, suburban expansion, vegetation changes, and road construction.
 
